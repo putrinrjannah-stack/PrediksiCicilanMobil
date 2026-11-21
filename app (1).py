@@ -5,7 +5,7 @@ import pickle
 import joblib
 
 # Load the trained model
-model = joblib.load('linear_regression_model.pkl')
+model = joblib.load('linear_regression_model (1).pkl')
 
 # Streamlit app title
 st.title('Prediksi Tagihan Listrik Jakarta')
